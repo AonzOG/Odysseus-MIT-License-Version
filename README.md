@@ -1,5 +1,17 @@
 # Odysseus
 
+## Historical MIT-Licensed Version
+
+This repository preserves the original Odysseus source code from the upstream `main` branch at commit [`6ed1c19bc965b455a1e9e60abc1b35e1bfdeb997`](https://github.com/odysseus-dev/odysseus/commit/6ed1c19bc965b455a1e9e60abc1b35e1bfdeb997), immediately preceding its transition from MIT to AGPL-3.0-or-later on 9 June 2026.
+
+The original MIT license, copyright notices, and acknowledgments are preserved. This independent repository is maintained for public preservation and continued development of the historical MIT-licensed source, without incorporating subsequent AGPL-licensed changes.
+
+**Original source commit:** `6ed1c19bc965b455a1e9e60abc1b35e1bfdeb997`
+
+**Original source-tree SHA:** `d7d1143ee58beaf6889d22ec70bbf6edbc41163a`
+
+**Preservation date:** 9 October 2026
+
 > **Branch note:** `dev` is the default branch and contains the latest development changes, but it may be unstable. For the more stable curated branch, use [`main`](https://github.com/pewdiepie-archdaemon/odysseus/tree/main).
 
 ```
