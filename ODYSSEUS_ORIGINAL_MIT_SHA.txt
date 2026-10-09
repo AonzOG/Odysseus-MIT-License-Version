@@ -1,0 +1,22 @@
+ORIGINAL UPSTREAM MIT COMMIT SHA (main):
+6ed1c19bc965b455a1e9e60abc1b35e1bfdeb997
+
+ORIGINAL MIT SOURCE TREE SHA (matches preservation commit):
+d7d1143ee58beaf6889d22ec70bbf6edbc41163a
+
+UPSTREAM MIT TO AGPL CHANGE COMMIT SHA (immediate child):
+23f0d64edb7cb9ee2a6d0a6fddd72e50b726baf6
+
+AONZOG PRESERVATION COMMIT SHA (same historical Git tree):
+9791bbdce7a207eca18abda0f4fe1102f7a2ec93
+
+UPSTREAM MIT COMMIT:
+https://github.com/odysseus-dev/odysseus/commit/6ed1c19bc965b455a1e9e60abc1b35e1bfdeb997
+
+UPSTREAM CHANGE TO AGPL:
+https://github.com/odysseus-dev/odysseus/commit/23f0d64edb7cb9ee2a6d0a6fddd72e50b726baf6
+
+PRESERVATION COMMIT:
+https://github.com/AonzOG/Odysseus-MIT-License-Version/commit/9791bbdce7a207eca18abda0f4fe1102f7a2ec93
+
+See ODYSSEUS_MIT_PROVENANCE.md for detailed provenance and limitations.
